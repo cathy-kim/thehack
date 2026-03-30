@@ -12,3 +12,6 @@
 2026-03-27 12:59 - Slack sync FAILED: browser Google login required (jine9323@gmail.com not registered on workspace) + slack message tool missing_scope (12th consecutive failure since 03-21). Same 2 blockers persist.
 2026-03-28 12:58 - Slack sync FAILED: browser Google login required (jine9323@gmail.com not registered on workspace) + slack message tool missing_scope (13th consecutive failure since 03-21). Same 2 blockers persist.
 2026-03-28 15:58 - Slack sync FAILED: browser Google login required (로그인 페이지 표시, jine9323@gmail.com 세션 없음) + slack message tool missing_scope (14th consecutive failure since 03-21). Same 2 blockers persist.
+2026-03-29 01:24 - Slack sync FAILED: browser Google login required (로그인 페이지 표시, 세션 없음) + slack message tool missing_scope (15th consecutive failure since 03-21). Same 2 blockers persist.
+2026-03-29 04:24 - Slack sync FAILED: browser Google login required (로그인 페이지 표시, 세션 없음) + slack message tool missing_scope (16th consecutive failure since 03-21). Same 2 blockers persist.
+2026-03-30 01:50 - Slack sync FAILED: browser Google login page (no accounts pre-filled, OpenClaw browser profile has no Google session) + slack message tool missing_scope (17th consecutive failure since 03-21). Same 2 blockers persist. ACTION NEEDED: Slack에 직접 로그인 필요 (Chrome Extension relay 또는 Slack token scope 추가)
